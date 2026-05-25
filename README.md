@@ -1,7 +1,7 @@
 # README.md
 # Hi, I'm Wamaitha Wanjiru 👋
 
-I am a Business Information Technology student at the Technical University of Mombasa. My academic focus bridges information systems and **Cybersecurity**, meaning I am deeply invested in data integrity, privacy protection, and system logic. 
+I am a Business Information Technology student at the Technical University of Mombasa. My academic focus bridges information systems and Cybersecurity, meaning I am deeply invested in data integrity, privacy protection, and system logic. 
 
 Alongside my technical studies, I am a native Swahili speaker with full professional fluency in English.
 
@@ -14,4 +14,4 @@ Alongside my technical studies, I am a native Swahili speaker with full professi
 * **Swahili:** Native Fluency
 * **English:** Professional Working Proficiency
 
-*Feel free to explore my repositories or connect with me via my LinkedIn profile listed on my application!*
+*Feel free to explore my repositories or connect with me
