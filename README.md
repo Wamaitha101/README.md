@@ -3,7 +3,6 @@
 
 I am a Business Information Technology student at the Technical University of Mombasa. My academic focus bridges information systems and Cybersecurity, meaning I am deeply invested in data integrity, privacy protection, and system logic. 
 
-Alongside my technical studies, I am a native Swahili speaker with full professional fluency in English.
 
 ### What I Am Focused On:
 * **Cybersecurity & Data Integrity:** Learning about network security, threat identification, and protecting data environments from vulnerabilities. I value strict compliance and data privacy protocols.
