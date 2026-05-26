@@ -60,5 +60,5 @@ AI models often translate literally and miss the actual human context. Below are
 
 ## 📫 Contact & Verification
 * **Email:** wamaithawanjiru66@gmail.com
-* **LinkedIn:**https://www.linkedin.com/in/wamaitha-wanjiru-48713b374?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **LinkedIn:https://www.linkedin.com/in/wamaitha-wanjiru-48713b374?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
